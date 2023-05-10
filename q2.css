@@ -1,0 +1,28 @@
+#menu>p{
+    color: white;
+     display: inline; 
+     width: 100px; 
+     height: 100px; 
+     padding:5px;
+     border: 1px solid blue;
+     background-color:black;
+}
+h1{
+    text-align: center;
+    color:black"
+}
+#pic{
+    margin-top: 20px;
+    padding: 4px;
+}
+#rating{
+    float: center;
+    background-color: green;
+    width: 70px;
+    height: 100px;
+    font-size: 40px;
+    clear:both;
+   }
+ .pcr{
+    display: inline;
+ }
